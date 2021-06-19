@@ -2,7 +2,7 @@
 
 I am a recent bootcamp graduate. 
 I love to 👩🏻‍💻, learn new things 🕵️ and find solutions to things with web technologies 🔧. 
- - As well as blob emojis and books. 
+As well as blob emojis and books. 
 
 Languages: HTML, CSS, React.js, Redux, Node.js, Express, MongoDb, Firebase, C++ 
 
