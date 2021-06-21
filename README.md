@@ -8,8 +8,7 @@ Languages: HTML, CSS, Javascript, React.js, Redux, Node.js, Express, MongoDb, Fi
 
 🌱 Currently working on: chrome extensions 
 
-📫 https://lara-tunc.netlify.app/about 
-
+📫 https://lara-tunc.netlify.app/contact-me
 
 
 <!--
