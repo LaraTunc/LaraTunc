@@ -8,7 +8,7 @@ Languages: HTML, CSS, Javascript, React.js, Redux, Node.js, Express, MongoDb, Fi
 
 🌱 Currently working on: chrome extensions 
 
-📫 https://www.laratunc.com/
+🍋 https://www.laratunc.com/
 
 
 <!--
