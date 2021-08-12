@@ -6,8 +6,6 @@ As well as blob emojis and books 📚.
 
 Languages: HTML, CSS, Javascript, React.js, Redux, Node.js, Express, MongoDb, Firebase, C++ 
 
-🌱 Currently working on: chrome extensions 
-
 🍋 https://www.laratunc.com/
 
 
