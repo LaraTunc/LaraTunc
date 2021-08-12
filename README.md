@@ -1,6 +1,6 @@
 ### Hi there 💁‍♀️
 
-I am a recent bootcamp graduate. 
+I am a recent bootcamp graduate and a full stack web developer. 
 I love to code 👩🏻‍💻, learn new things 🕵️ and find solutions to things with web technologies 🔧.\
 As well as blob emojis and books 📚. 
 
