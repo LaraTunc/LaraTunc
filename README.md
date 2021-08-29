@@ -8,6 +8,8 @@ Languages: HTML, CSS, Javascript, React.js, Redux, Node.js, Express, MongoDb, Fi
 
 🍋 https://www.laratunc.com/
 
+🔭 I’m currently learning NextJs
+
 
 <!--
 **LaraTunc/LaraTunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
