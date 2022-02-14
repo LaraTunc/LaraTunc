@@ -4,7 +4,7 @@ I am a recent bootcamp graduate and a full stack web developer. \
 I love to code 👩🏻‍💻, learn new things 🕵️ and find solutions to things with web technologies 🔧.\
 As well as blob emojis and books 📚. 
 
-Languages: HTML, CSS, Javascript, React.js, Redux, Node.js, Express, MongoDb, Firebase, C++ 
+Languages: HTML, CSS, Javascript, React.js, Redux, Node.js, Express, MongoDb, Firebase, C++, Jest 
 
 🍋 https://www.laratunc.com/
 
