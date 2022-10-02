@@ -9,7 +9,7 @@ Languages: Javascript, React.js, Redux, Node.js, Express, MongoDb, Firebase, C++
 🍋 https://www.laratunc.com/  \
 👾 https://larascards.netlify.app/  \
 🌴 https://larasgame.netlify.app/ \
-🌍 https://devbook123.herokuapp.com/  \
+🌍 https://devbook123.herokuapp.com/  
 
 
 
