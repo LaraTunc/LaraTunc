@@ -4,7 +4,7 @@ I am a full stack web developer, working for Life House. \
 I love to code 👩🏻‍💻, learn new things and find solutions to things with web technologies 🔧.\
 As well as blob emojis and books 📚. 
 
-Languages: Javascript, React.js, Redux, Node.js, Express, MongoDb, Firebase, C++, Jest, Python, Django, Pyspark, Typescript, Nestjs 
+Languages and Technologies: Javascript, React.js, Redux, Node.js, Express, MongoDb, Firebase, C++, Jest, Python, Django, Pyspark, Typescript, Nestjs, PySpark, Kubernetes, Docker, Jenkins, AWS
 
 🍋 https://www.laratunc.com/  \
 👾 https://larascards.netlify.app/  \
