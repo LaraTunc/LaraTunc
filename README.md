@@ -6,6 +6,8 @@ As well as blob emojis and books 📚.
 
 Languages and Technologies: Javascript, React.js, Redux, Node.js, Express, MongoDb, Firebase, C++, Jest, Python, Django, Pyspark, Typescript, Nestjs, PySpark, Kubernetes, Docker, Jenkins, AWS
 
+Projects: 
+
 🍋 https://www.laratunc.com/  \
 👾 https://larascards.netlify.app/  \
 🌴 https://larasgame.netlify.app/ \
